@@ -11,7 +11,7 @@ public class SalesData {
 
 		int sum = 0;
 		for (int i: data) {
-			System.out.println("Next value: " + data[i]);
+			System.out.println("Next value: " + i);
 			sum += i;
 		}
 		
