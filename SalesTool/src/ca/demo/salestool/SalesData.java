@@ -18,6 +18,7 @@ public class SalesData {
 		System.out.println("Sum is: " + sum);
 		
 		System.out.println("Another Sum is: " + sum);
+		System.out.println("2 Another Sum is: " + sum);
 		
 	}
 
