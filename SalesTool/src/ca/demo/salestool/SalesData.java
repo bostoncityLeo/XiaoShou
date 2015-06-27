@@ -16,6 +16,9 @@ public class SalesData {
 		}
 		
 		System.out.println("Sum is: " + sum);
+		
+		System.out.println("Another Sum is: " + sum);
+		
 	}
 
 }
